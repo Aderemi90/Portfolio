@@ -3,6 +3,10 @@ import "./Services.css";
 
 const projectLinks = [
   {
+    repoName: "Portfolio",
+    liveLink: "https://portfolio-ten-red-28.vercel.app",
+  },
+  {
     repoName: "Remedic",
     liveLink: "https://remedic.vercel.app",
   },

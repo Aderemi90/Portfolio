@@ -6,7 +6,7 @@ function About() {
       <section className="about-container">
         <div className="about-content">
           <div className="about-image">
-            <img src="/public/Aderemi.jpeg" alt="Aderemi Oje" />
+            <img src="/Aderemi.jpeg" alt="Aderemi Oje" />
           </div>
           <div className="about-text">
             <h1>
